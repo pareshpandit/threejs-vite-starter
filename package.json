@@ -1,0 +1,19 @@
+{
+  "name": "vitethree",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --base=./",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "dat.gui": "^0.7.9",
+    "three": "^0.142.0",
+    "tilt": "^0.2.0"
+  }
+}
